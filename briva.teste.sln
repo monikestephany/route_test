@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "brivva.teste.api", "briva.teste.api\brivva.teste.api.csproj", "{39EB1781-FF24-4582-A2A9-8735BD6E9250}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "brivva.teste.console", "brivva.teste.console\brivva.teste.console.csproj", "{B69ACBC8-E60F-4AE3-B699-50E0AEA9F881}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "brivva.teste.core", "brivva.teste.core\brivva.teste.core.csproj", "{7382BE23-A98B-4A4A-95C6-916065C25798}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "brivva.teste.data", "brivva.teste.data\brivva.teste.data.csproj", "{82E3CE0F-44EA-4135-9521-BF3B9E0F9BB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "brivva.teste.infrastructure", "brivva.teste.infrastructure\brivva.teste.infrastructure.csproj", "{55BD5FE3-45D1-4E36-9A4B-25077B7B4A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brivva.teste.tdd", "briva.teste.tdd\brivva.teste.tdd.csproj", "{B82C5B7A-A378-4757-B6A1-B35357405F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39EB1781-FF24-4582-A2A9-8735BD6E9250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EB1781-FF24-4582-A2A9-8735BD6E9250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EB1781-FF24-4582-A2A9-8735BD6E9250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EB1781-FF24-4582-A2A9-8735BD6E9250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B69ACBC8-E60F-4AE3-B699-50E0AEA9F881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69ACBC8-E60F-4AE3-B699-50E0AEA9F881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69ACBC8-E60F-4AE3-B699-50E0AEA9F881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69ACBC8-E60F-4AE3-B699-50E0AEA9F881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7382BE23-A98B-4A4A-95C6-916065C25798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7382BE23-A98B-4A4A-95C6-916065C25798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7382BE23-A98B-4A4A-95C6-916065C25798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7382BE23-A98B-4A4A-95C6-916065C25798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E3CE0F-44EA-4135-9521-BF3B9E0F9BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E3CE0F-44EA-4135-9521-BF3B9E0F9BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E3CE0F-44EA-4135-9521-BF3B9E0F9BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E3CE0F-44EA-4135-9521-BF3B9E0F9BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BD5FE3-45D1-4E36-9A4B-25077B7B4A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BD5FE3-45D1-4E36-9A4B-25077B7B4A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BD5FE3-45D1-4E36-9A4B-25077B7B4A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BD5FE3-45D1-4E36-9A4B-25077B7B4A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82C5B7A-A378-4757-B6A1-B35357405F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82C5B7A-A378-4757-B6A1-B35357405F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82C5B7A-A378-4757-B6A1-B35357405F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82C5B7A-A378-4757-B6A1-B35357405F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D50BC0F-A2E5-4E8C-A474-D17456D9A908}
+	EndGlobalSection
+EndGlobal
